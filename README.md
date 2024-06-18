@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil
 
-<!--
-**Vivi341/Vivi341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Vitória Cristina
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.Alura.com.br)
+- Estou me desnvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desnvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato 📫
+
+00001118129374sp@al.educacao.sp.gov.br
+
+@vitóriacristina
+
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
